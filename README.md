@@ -1,6 +1,9 @@
 # sagemaker-spark-workshop
 
-#### Create a Sagemaker Configuration Lifecycle and place the below commands in the `create notebook` tab:
+
+## Setup Juypter Notebook within Amazon SageMaker
+
+#### 1- Create a Sagemaker Configuration Lifecycle and place the below commands in the `create notebook` tab:
 
 ```bash
 #!/bin/bash
