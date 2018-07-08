@@ -9,7 +9,7 @@
 #!/bin/bash
 set -e
 cd SageMaker
-pip install plotly
+sudo pip install plotly
 git clone https://github.com/willbadr/sagemaker-spark-workshop.git
 ```
 
