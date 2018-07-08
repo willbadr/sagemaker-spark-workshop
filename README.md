@@ -5,7 +5,7 @@
 
 #### 1- Create a Sagemaker Configuration Lifecycle and place the below commands in the `create notebook` tab:
 
-```bash
+```shell
 #!/bin/bash
 set -e
 cd SageMaker
