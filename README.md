@@ -1,6 +1,6 @@
 # sagemaker-spark-workshop
 
-## Create a Sagemaker Configuration Lifecycle and place the below commands in the `create notebook` tab:
+#### Create a Sagemaker Configuration Lifecycle and place the below commands in the `create notebook` tab:
 
 ```bash
 #!/bin/bash
