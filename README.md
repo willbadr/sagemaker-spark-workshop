@@ -16,4 +16,5 @@ git clone https://github.com/willbadr/sagemaker-spark-workshop.git
 ## References:
 
 A tool to create BYO containers: https://github.com/aws/sagemaker-containers
+
 Sagemaker Spark SDK (Scala): https://github.com/aws/sagemaker-spark/tree/master/sagemaker-spark-sdk
